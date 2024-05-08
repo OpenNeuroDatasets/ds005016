@@ -1,23 +1,8 @@
 {
-    "Name": "MBSR",
-    "BIDSVersion": "1.6.0",
-    "Authors": [
-        "Seminowicz DA",
-        "Burrowes SAB",
-        "Kearson A",
-        "Zhang J",
-        "Krimmel SR",
-        "Samawi L",
-        "Furman AJ",
-        "Keaser ML",
-        "Gould NF",
-        "Magyari T",
-        "White L",
-        "Goloubeva O",
-        "Goyal M",
-        "Peterlin BL",
-        "Haythornthwaite JA"
-    ],
-    "License": "CC0",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005016.v1.0.0"
+
+    "Name":"MBSR",
+    "BIDSVersion":"1.6.0",
+    "Authors":["name","name"]
+
 }
+
