@@ -2,6 +2,9 @@ This dataset contains 147 participants, 112 patients and 35 matched healthy cont
 
 Dataset consists of 1 10 minute resting state scan, two 8 minute pain scans,two 5 minute MSIT scans, and 1 DTI scan.
 
+Participant numbers sub-7000 through sub-7168 are patients.
+Participant numbers sub-7500 through sub-7538 are healthy controls.
+
 Notes:
 
 Participants data can include up to 3 sessions.
