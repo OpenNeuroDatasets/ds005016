@@ -42,3 +42,5 @@ MBSR+ (7.8 [95%CI, 6.98.8] to 4.6 [95%CI, 3.75.6]) than for SMH (7.7 [95%CI 6.78
  to 54.6 [95%CI, 52.956.4]) than SMH (59.6 [95%CI, 57.761.5] to 57.5 [95%CI, 55.559.4]) (P=0.02). There were no 
  differences in clinical outcomes at 52 weeks or MRI outcomes at 20 weeks, although changes related to cognitive 
  networks with MBSR+ were observed. MBSR+ is an effective treatment option for episodic migraine.
+
+keywords: Pain, chronic pain, migraine, headache, mindfulness, meditation, longitudinal, cognitive, cognition, resting state, dti, dwi
